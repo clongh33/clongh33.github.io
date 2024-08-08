@@ -43,6 +43,10 @@ markdown_ext:             markdown,mkdown,mkdn,mkd,md
 # Permalinks
 permalink:                /:categories/:year-:month-:day-:title:output_ext
 
+# Google Analytics // "<YOUR GOOGLE ANALYTICS KEY, e.g, UA-xxxxxx-x>"
+tracker:
+  google_analytics: "G-CEN0QRBKCB"
+
 # Disqus comments
 disqushandler:            "tommyvlog"
 
